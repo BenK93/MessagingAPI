@@ -7,6 +7,7 @@ name = "pypi"
 django = "*"
 djangorestframework = "*"
 python-decouple = "*"
+gunicorn = "*"
 
 [dev-packages]
 autopep8 = "*"
