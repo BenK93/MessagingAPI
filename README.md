@@ -1,4 +1,4 @@
-# MessagingAPI Django
+# MessagingAPI Django - Rest API Example
 ### API build with django for users to send and receive messages with Token Authentication.
 ## Users API
 --- 
